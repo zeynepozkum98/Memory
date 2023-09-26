@@ -1,0 +1,257 @@
+İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/3
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/1
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Update/1
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/addcity
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /City/AddCity
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/addcity
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /City/AddCity
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Detail
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Detail
+ Statu Kod : 200Object reference not set to an instance of an object.İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Detail
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Detail
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200An exception was thrown while activating Memory.Business.Concrete.CityManager.İstek atılan metot : GET
+ Yol: /city/index
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/index
+ Statu Kod : 200An exception was thrown while activating Memory.Business.Concrete.CityManager.İstek atılan metot : GET
+ Yol: /city/index/
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/index/
+ Statu Kod : 200An exception was thrown while activating Memory.Business.Concrete.CityManager.İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /Account/Register
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /Account/Register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /City/Clear/5
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/4
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/3
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/1
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/2
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/3
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /city/detail/4
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /account/register
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /Account/Register
+ Statu Kod : 200İstek atılan metot : GET
+ Yol: /Account/login
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /Account/Login
+ Statu Kod : 200İstek atılan metot : POST
+ Yol: /Account/Login
+ Statu Kod : 200

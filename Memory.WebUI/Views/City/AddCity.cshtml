@@ -1,0 +1,31 @@
+﻿@using Memory.Entities.Concrete.Dtos;
+
+@model CityDto 
+
+
+<style>
+
+    h1{
+        color:crimson;
+    }
+
+    label{
+        font-size:x-large;
+    }
+
+    input:hover{
+
+        background-color:aquamarine;
+    }
+
+</style>
+
+
+
+<form asp-action="AddCity" asp-controller="City" method="post">
+
+    <h1>Şehir Ekle</h1>
+    <label>Şehir</label>
+    <input type="text" name="Name" placeholder="Sehir" />
+    <input type="submit" value="Ekle" />
+</form>
